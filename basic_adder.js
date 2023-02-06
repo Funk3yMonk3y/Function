@@ -7,6 +7,7 @@ return a+b+c;
 let a = "this adds "
 let b = "three strings "
 let c = "to form a sentence"
+let d = "new parameter"
 
 //Print the sum
 console.log(add(1,2,3))
